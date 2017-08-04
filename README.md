@@ -8,8 +8,9 @@ Take a look [Here](https://kimjaydot.github.io/HW-Wireframe)
 
 ## Web Languages Used
 
-*HTML
-*CSS
+* HTML
+* CSS
+
 
 
 
